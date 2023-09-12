@@ -1,0 +1,19 @@
+{
+  "name": "test_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.4",
+    "axios": "^1.5.0"
+  }
+}
